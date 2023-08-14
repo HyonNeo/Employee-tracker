@@ -23,10 +23,10 @@ VALUES ("software engineer", 120000, 1),
 SELECT * FROM ROLE;
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Spike", "Bulldog", 3, NULL),
-    ("Tom", "Cat", 3, 1),
-    ("Jerry", "Mouse", 1, 2),
-    ("Mickey", "Mouse", 1, 2),
-    ("Toots", "Mouse", 2, 1);
+VALUES ("Jesus", "Elias", 3, NULL),
+    ("Camilo", "Castro", 3, 1),
+    ("Cristina", "Aguilera", 1, 2),
+    ("Edgar", "Medina", 1, 2),
+    ("Franco", "Castillo", 2, 1);
 
 SELECT * FROM employee;
