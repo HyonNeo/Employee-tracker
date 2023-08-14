@@ -14,7 +14,7 @@
 
   
   ## Installation
-  clone the repository and put in hte terminal npm install
+  clone the repository and put "npm install" in the terminal 
 
   
   ## Usage
